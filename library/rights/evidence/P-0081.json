@@ -1,0 +1,17 @@
+{
+  "id": "P-0081",
+  "api_url": "https://api.artic.edu/api/v1/artworks/88629",
+  "checked_at": "2026-11-10T18:37:02.124137+00:00",
+  "is_public_domain": true,
+  "image_id": "6f049e2f-b98b-6dd1-62bc-738483c23a9d",
+  "image_id_matches": true,
+  "image_sha256": "04021f84fdec514d4f6a033480e4ccb2148efe98c918e16aa10234aa7c17fe96",
+  "remote_image_sha256": "04021f84fdec514d4f6a033480e4ccb2148efe98c918e16aa10234aa7c17fe96",
+  "identical_bytes": true,
+  "title": "Reine de Joie",
+  "credit_line": "The Charles Deering Collection",
+  "copyright_notice": null,
+  "api_sha256": "58687b458e061f6a3321f2bd8ae065782fb94f4d9c905c750a441c421abe0834",
+  "source_url": "https://www.artic.edu/artworks/88629",
+  "image_url": "https://www.artic.edu/iiif/2/6f049e2f-b98b-6dd1-62bc-738483c23a9d/full/1200,/0/default.jpg"
+}

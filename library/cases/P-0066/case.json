@@ -1,0 +1,75 @@
+{
+  "id": "P-0066",
+  "title": "Aristide Bruant",
+  "creator": "Henri de Toulouse-Lautrec",
+  "year": "1893",
+  "taxonomy_version": "0.2",
+  "original_use": "performance",
+  "original_subjects": [],
+  "source_url": "https://www.artic.edu/artworks/13598",
+  "image_url": "https://www.artic.edu/iiif/2/31d7fb60-ddd1-c78d-1cc1-eca25cb603c1/full/1200,/0/default.jpg",
+  "image_path": "cases/P-0066/preview.jpg",
+  "image_sha256": "011d925893fabb2dbabd16c33f81192bfe8e8f8f14a9ca19c910349037695d5d",
+  "retrieved_at": "2026-11-07T20:45:24.128536+00:00",
+  "annotation_status": "reviewed",
+  "annotator": "Codex early visual screen",
+  "annotated_at": "2026-11-08",
+  "art_history": [],
+  "observed": {
+    "visual_family": {
+      "primary": "illustrative_organic",
+      "secondary": null
+    },
+    "visual_driver": "image",
+    "composition": [
+      "split"
+    ],
+    "text_density": "low"
+  },
+  "interpreted": {
+    "tone": [
+      "restrained"
+    ],
+    "transferable_concepts": [
+      {
+        "id": "identity",
+        "reason": "帽子和背影替代面部肖像"
+      }
+    ]
+  },
+  "techniques": [
+    "flat_shapes"
+  ],
+  "typography": [
+    "custom_display"
+  ],
+  "color": {
+    "color_mode": "limited_palette",
+    "color_contrast": "strong",
+    "dominant_colors": [
+      "black",
+      "red",
+      "brown"
+    ]
+  },
+  "analysis": {
+    "visual_mechanism": "左侧黑衣背影占据大面积，右侧红色字列独立排列。此处描述以所见图像为依据。",
+    "transferable_method": "可迁移的编排策略：左侧黑衣背影占据大面积，右侧红色字列独立排列；改用于书籍宣传时，以书的核心物象替换主图，沿原有文字区安排书名和一条核心信息。",
+    "failure_modes": "这一结构依赖帽子和背影替代面部肖像；若把书名、作者和多条卖点都放到主图轮廓内部，会削弱该关系。",
+    "annotation_rationale": "Collected and initially annotated separately; root inspected the complete local image, compared the primary-source identity and corrected visible classification conflicts."
+  },
+  "review": {
+    "reviewer": "Codex root independent acceptance after collector and annotator passes",
+    "reviewed_at": "2026-11-08",
+    "image_sha256": "011d925893fabb2dbabd16c33f81192bfe8e8f8f14a9ca19c910349037695d5d",
+    "source_check": "Matched title, creator (including explicit unknown), date and record identity to preserved primary record aic-13598; image visually corresponds to the work.",
+    "source_urls": [
+      "https://www.artic.edu/artworks/13598"
+    ],
+    "visual_check": "Selected contact sheet 0. Full image identity, main composition, visual family, text density and source correspondence inspected; minor imprint text not transcribed. ",
+    "source_record_sha256": "f9721c1f9efc54b8a8d300155005439f89e28cbcd2d6a0b384e9095db1a9ca40"
+  },
+  "rights_note": "CC0-1.0; see CREDITS.md and rights/release-manifest.json. Release decision covers these exact image bytes under the museum designation. See the shared policy evidence for scope and third-party limits.",
+  "source_evidence": "Source record and local image identity were reviewed; see source_url and review.",
+  "notes": "Release starter reference. Rights review is separate from visual/source review."
+}

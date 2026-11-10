@@ -1,0 +1,17 @@
+{
+  "id": "P-0077",
+  "api_url": "https://api.artic.edu/api/v1/artworks/77145",
+  "checked_at": "2026-11-10T18:37:00.469337+00:00",
+  "is_public_domain": true,
+  "image_id": "e7eb4b2b-07af-4f99-0418-786d4a5201f0",
+  "image_id_matches": true,
+  "image_sha256": "e020a5a0cc150f92f4e77981ff77ac6bc370416744ba2b7e2cebafccaf0e4bfb",
+  "remote_image_sha256": "e020a5a0cc150f92f4e77981ff77ac6bc370416744ba2b7e2cebafccaf0e4bfb",
+  "identical_bytes": true,
+  "title": "Red Cross Our Day 1917",
+  "credit_line": "Gift of Mr. Robertson",
+  "copyright_notice": null,
+  "api_sha256": "b46d9041c0525ff70e60d822afc2f070f84eeb838a1154ec071986da31db1840",
+  "source_url": "https://www.artic.edu/artworks/77145",
+  "image_url": "https://www.artic.edu/iiif/2/e7eb4b2b-07af-4f99-0418-786d4a5201f0/full/1200,/0/default.jpg"
+}

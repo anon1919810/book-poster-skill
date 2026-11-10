@@ -1,0 +1,17 @@
+{
+  "id": "P-0078",
+  "api_url": "https://api.artic.edu/api/v1/artworks/77229",
+  "checked_at": "2026-11-10T18:37:00.684904+00:00",
+  "is_public_domain": true,
+  "image_id": "4cfd2708-0977-bc06-d6b6-39efe1fc4baa",
+  "image_id_matches": true,
+  "image_sha256": "e77616df4e7d852c470d14cbebe4162c5f38db8b7a9d9fd13916727fd81f8959",
+  "remote_image_sha256": "e77616df4e7d852c470d14cbebe4162c5f38db8b7a9d9fd13916727fd81f8959",
+  "identical_bytes": true,
+  "title": "The Clothing of the Prisoner of War",
+  "credit_line": "The Art Institute of Chicago",
+  "copyright_notice": null,
+  "api_sha256": "37fdab21442c35c8700f9d8bc626ba930492d89e4d12c2ea306f1fbafa7096f5",
+  "source_url": "https://www.artic.edu/artworks/77229",
+  "image_url": "https://www.artic.edu/iiif/2/4cfd2708-0977-bc06-d6b6-39efe1fc4baa/full/1200,/0/default.jpg"
+}

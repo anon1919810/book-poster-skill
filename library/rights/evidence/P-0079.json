@@ -1,0 +1,17 @@
+{
+  "id": "P-0079",
+  "api_url": "https://api.artic.edu/api/v1/artworks/7945",
+  "checked_at": "2026-11-10T18:37:00.689524+00:00",
+  "is_public_domain": true,
+  "image_id": "4cc0909c-0f6c-43d2-4acf-1a6c55db2e9b",
+  "image_id_matches": true,
+  "image_sha256": "8bcdac7d3b69d85381958dc523fa99f45beaa07a374f226e8693b37c01abb079",
+  "remote_image_sha256": "8bcdac7d3b69d85381958dc523fa99f45beaa07a374f226e8693b37c01abb079",
+  "identical_bytes": true,
+  "title": "Hun or Home?",
+  "credit_line": "Gift of Mrs. N. M. Goldsmith",
+  "copyright_notice": null,
+  "api_sha256": "09360e057c02bb2b493ee5aaca03a3d20561f0605472d00a4b3f1878c5a17ae2",
+  "source_url": "https://www.artic.edu/artworks/7945",
+  "image_url": "https://www.artic.edu/iiif/2/4cc0909c-0f6c-43d2-4acf-1a6c55db2e9b/full/1200,/0/default.jpg"
+}

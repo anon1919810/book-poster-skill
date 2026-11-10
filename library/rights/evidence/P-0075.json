@@ -1,0 +1,17 @@
+{
+  "id": "P-0075",
+  "api_url": "https://api.artic.edu/api/v1/artworks/77065",
+  "checked_at": "2026-11-10T18:36:58.665277+00:00",
+  "is_public_domain": true,
+  "image_id": "0c68abcc-ae8b-ee53-0382-b891245a73d2",
+  "image_id_matches": true,
+  "image_sha256": "1e2e4fe7c3992638556d69b8c61ca35ce4f400d5089b3f8077426b1700ac91c2",
+  "remote_image_sha256": "1e2e4fe7c3992638556d69b8c61ca35ce4f400d5089b3f8077426b1700ac91c2",
+  "identical_bytes": true,
+  "title": "The Good Fire - Remember those who are cold",
+  "credit_line": "Gift of Mr. Robertson",
+  "copyright_notice": null,
+  "api_sha256": "65124545399b155fe6abd0b09816f7545bcf28ae26c2d902f7ba03fe8497535b",
+  "source_url": "https://www.artic.edu/artworks/77065",
+  "image_url": "https://www.artic.edu/iiif/2/0c68abcc-ae8b-ee53-0382-b891245a73d2/full/1200,/0/default.jpg"
+}

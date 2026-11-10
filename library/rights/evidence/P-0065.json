@@ -1,0 +1,17 @@
+{
+  "id": "P-0065",
+  "api_url": "https://api.artic.edu/api/v1/artworks/111986",
+  "checked_at": "2026-11-10T18:36:54.572249+00:00",
+  "is_public_domain": true,
+  "image_id": "119dba14-acf2-cdcd-e9e6-b9cd38bc3aad",
+  "image_id_matches": true,
+  "image_sha256": "418d9f50d3f293abb5b5ce4f064dcd801312e85915f34e6773eeb83f989b3ee7",
+  "remote_image_sha256": "418d9f50d3f293abb5b5ce4f064dcd801312e85915f34e6773eeb83f989b3ee7",
+  "identical_bytes": true,
+  "title": "Zodiaque (\"La Plume\")",
+  "credit_line": "Mrs. Victor F. Lawson Collection",
+  "copyright_notice": null,
+  "api_sha256": "3fec6c200fe19902d28e16fa6dbdee87461976a0bcfd7822af2558746a877d01",
+  "source_url": "https://www.artic.edu/artworks/111986",
+  "image_url": "https://www.artic.edu/iiif/2/119dba14-acf2-cdcd-e9e6-b9cd38bc3aad/full/1200,/0/default.jpg"
+}

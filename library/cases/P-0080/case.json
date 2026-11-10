@@ -1,0 +1,75 @@
+{
+  "id": "P-0080",
+  "title": "Moulin Rouge, La Goulue",
+  "creator": "Henri de Toulouse-Lautrec",
+  "year": "1891",
+  "taxonomy_version": "0.2",
+  "original_use": "performance",
+  "original_subjects": [],
+  "source_url": "https://www.artic.edu/artworks/82287",
+  "image_url": "https://www.artic.edu/iiif/2/1d82da66-d99e-f4f6-d5fc-56b22b6678ba/full/1200,/0/default.jpg",
+  "image_path": "cases/P-0080/preview.jpg",
+  "image_sha256": "cd61b2d7b9acdf22fde9ac3e0c01322868456f15c50215b65021c9cb1a56d830",
+  "retrieved_at": "2026-11-07T20:45:23.584857+00:00",
+  "annotation_status": "reviewed",
+  "annotator": "Codex early visual screen",
+  "annotated_at": "2026-11-08",
+  "art_history": [],
+  "observed": {
+    "visual_family": {
+      "primary": "illustrative_organic",
+      "secondary": null
+    },
+    "visual_driver": "image",
+    "composition": [
+      "stacked"
+    ],
+    "text_density": "medium"
+  },
+  "interpreted": {
+    "tone": [
+      "energetic"
+    ],
+    "transferable_concepts": [
+      {
+        "id": "contrast",
+        "reason": "白裙从黑色人群中突出"
+      }
+    ]
+  },
+  "techniques": [
+    "flat_shapes"
+  ],
+  "typography": [
+    "custom_display"
+  ],
+  "color": {
+    "color_mode": "limited_palette",
+    "color_contrast": "strong",
+    "dominant_colors": [
+      "black",
+      "red",
+      "yellow"
+    ]
+  },
+  "analysis": {
+    "visual_mechanism": "顶部三行红字压住黑色观众带，白裙与前景灰影交错。此处描述以所见图像为依据。",
+    "transferable_method": "可迁移的编排策略：顶部三行红字压住黑色观众带，白裙与前景灰影交错；改用于书籍宣传时，以书的核心物象替换主图，沿原有文字区安排书名和一条核心信息。",
+    "failure_modes": "这一结构依赖白裙从黑色人群中突出；若把书名、作者和多条卖点都放到主图轮廓内部，会削弱该关系。",
+    "annotation_rationale": "Collected and initially annotated separately; root inspected the complete local image, compared the primary-source identity and corrected visible classification conflicts."
+  },
+  "review": {
+    "reviewer": "Codex root independent acceptance after collector and annotator passes",
+    "reviewed_at": "2026-11-08",
+    "image_sha256": "cd61b2d7b9acdf22fde9ac3e0c01322868456f15c50215b65021c9cb1a56d830",
+    "source_check": "Matched title, creator (including explicit unknown), date and record identity to preserved primary record aic-82287; image visually corresponds to the work.",
+    "source_urls": [
+      "https://www.artic.edu/artworks/82287"
+    ],
+    "visual_check": "Selected contact sheet 1. Full image identity, main composition, visual family, text density and source correspondence inspected; minor imprint text not transcribed. ",
+    "source_record_sha256": "3c59a4d94f950c4a803ef704831d004148fd4bbc21c9ba2220d15c634c654286"
+  },
+  "rights_note": "CC0-1.0; see CREDITS.md and rights/release-manifest.json. Release decision covers these exact image bytes under the museum designation. See the shared policy evidence for scope and third-party limits.",
+  "source_evidence": "Source record and local image identity were reviewed; see source_url and review.",
+  "notes": "Release starter reference. Rights review is separate from visual/source review."
+}

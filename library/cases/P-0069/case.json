@@ -1,0 +1,75 @@
+{
+  "id": "P-0069",
+  "title": "Will You Help the Women of France?",
+  "creator": "Edward Penfield",
+  "year": "1917",
+  "taxonomy_version": "0.2",
+  "original_use": "public_message",
+  "original_subjects": [],
+  "source_url": "https://www.artic.edu/artworks/146469",
+  "image_url": "https://www.artic.edu/iiif/2/84593fd9-4457-7c61-3246-d15f6622463f/full/1200,/0/default.jpg",
+  "image_path": "cases/P-0069/preview.jpg",
+  "image_sha256": "805e4dbb649590cbab39b18b588575d5b16208d1f6260dda7630279f205d1ac3",
+  "retrieved_at": "2026-11-07T20:45:30.523225+00:00",
+  "annotation_status": "reviewed",
+  "annotator": "Codex early visual screen",
+  "annotated_at": "2026-11-08",
+  "art_history": [],
+  "observed": {
+    "visual_family": {
+      "primary": "illustrative_organic",
+      "secondary": null
+    },
+    "visual_driver": "image",
+    "composition": [
+      "split"
+    ],
+    "text_density": "medium"
+  },
+  "interpreted": {
+    "tone": [
+      "solemn"
+    ],
+    "transferable_concepts": [
+      {
+        "id": "connection",
+        "reason": "三人共同拉动农具的姿态构成协力"
+      }
+    ]
+  },
+  "techniques": [
+    "flat_shapes"
+  ],
+  "typography": [
+    "custom_display"
+  ],
+  "color": {
+    "color_mode": "limited_palette",
+    "color_contrast": "strong",
+    "dominant_colors": [
+      "green",
+      "blue",
+      "black"
+    ]
+  },
+  "analysis": {
+    "visual_mechanism": "三名农妇的身体形成左高右低斜线，右上黑底容纳白色节粮命令。此处描述以所见图像为依据。",
+    "transferable_method": "可迁移的编排策略：三名农妇的身体形成左高右低斜线，右上黑底容纳白色节粮命令；改用于书籍宣传时，以书的核心物象替换主图，沿原有文字区安排书名和一条核心信息。",
+    "failure_modes": "这一结构依赖三人共同拉动农具的姿态构成协力；若把书名、作者和多条卖点都放到主图轮廓内部，会削弱该关系。",
+    "annotation_rationale": "Collected and initially annotated separately; root inspected the complete local image, compared the primary-source identity and corrected visible classification conflicts."
+  },
+  "review": {
+    "reviewer": "Codex root independent acceptance after collector and annotator passes",
+    "reviewed_at": "2026-11-08",
+    "image_sha256": "805e4dbb649590cbab39b18b588575d5b16208d1f6260dda7630279f205d1ac3",
+    "source_check": "Matched title, creator (including explicit unknown), date and record identity to preserved primary record aic-146469; image visually corresponds to the work.",
+    "source_urls": [
+      "https://www.artic.edu/artworks/146469"
+    ],
+    "visual_check": "Selected contact sheet 0. Full image identity, main composition, visual family, text density and source correspondence inspected; minor imprint text not transcribed. ",
+    "source_record_sha256": "c6bc638eb368468e218347587dfa7ee4b5f8d3a8d0b07730b08c3c027a056458"
+  },
+  "rights_note": "CC0-1.0; see CREDITS.md and rights/release-manifest.json. Release decision covers these exact image bytes under the museum designation. See the shared policy evidence for scope and third-party limits.",
+  "source_evidence": "Source record and local image identity were reviewed; see source_url and review.",
+  "notes": "Release starter reference. Rights review is separate from visual/source review."
+}

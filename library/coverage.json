@@ -1,0 +1,145 @@
+{
+  "total": 17,
+  "visual_family": {
+    "geometric_order": 0,
+    "expressive_type": 0,
+    "symbolic_reduction": 0,
+    "illustrative_organic": 15,
+    "photographic_editorial": 0,
+    "collage_montage": 0,
+    "surreal_concept": 0,
+    "ornamental_pattern": 2,
+    "diagrammatic_information": 0,
+    "material_experiment": 0
+  },
+  "art_history": {
+    "swiss_international": {
+      "historical_affiliation": 0,
+      "documented_influence": 0,
+      "visual_affinity": 0,
+      "revival": 0
+    },
+    "futurism": {
+      "historical_affiliation": 0,
+      "documented_influence": 0,
+      "visual_affinity": 0,
+      "revival": 0
+    },
+    "constructivism": {
+      "historical_affiliation": 0,
+      "documented_influence": 0,
+      "visual_affinity": 0,
+      "revival": 0
+    },
+    "bauhaus": {
+      "historical_affiliation": 0,
+      "documented_influence": 0,
+      "visual_affinity": 0,
+      "revival": 0
+    },
+    "de_stijl": {
+      "historical_affiliation": 0,
+      "documented_influence": 0,
+      "visual_affinity": 0,
+      "revival": 0
+    },
+    "new_typography": {
+      "historical_affiliation": 0,
+      "documented_influence": 0,
+      "visual_affinity": 0,
+      "revival": 0
+    },
+    "art_nouveau": {
+      "historical_affiliation": 0,
+      "documented_influence": 0,
+      "visual_affinity": 3,
+      "revival": 0
+    },
+    "art_deco": {
+      "historical_affiliation": 0,
+      "documented_influence": 0,
+      "visual_affinity": 0,
+      "revival": 0
+    },
+    "dada": {
+      "historical_affiliation": 0,
+      "documented_influence": 0,
+      "visual_affinity": 0,
+      "revival": 0
+    },
+    "surrealism": {
+      "historical_affiliation": 0,
+      "documented_influence": 0,
+      "visual_affinity": 0,
+      "revival": 0
+    },
+    "cubism": {
+      "historical_affiliation": 0,
+      "documented_influence": 0,
+      "visual_affinity": 0,
+      "revival": 0
+    },
+    "pop_art": {
+      "historical_affiliation": 0,
+      "documented_influence": 0,
+      "visual_affinity": 0,
+      "revival": 0
+    },
+    "psychedelic_graphics": {
+      "historical_affiliation": 0,
+      "documented_influence": 0,
+      "visual_affinity": 0,
+      "revival": 0
+    },
+    "new_wave_graphics": {
+      "historical_affiliation": 0,
+      "documented_influence": 0,
+      "visual_affinity": 0,
+      "revival": 0
+    },
+    "postmodern_graphics": {
+      "historical_affiliation": 0,
+      "documented_influence": 0,
+      "visual_affinity": 0,
+      "revival": 0
+    },
+    "plakatstil": {
+      "historical_affiliation": 0,
+      "documented_influence": 0,
+      "visual_affinity": 0,
+      "revival": 0
+    }
+  },
+  "gaps": {
+    "visual_family": [
+      "geometric_order",
+      "expressive_type",
+      "symbolic_reduction",
+      "photographic_editorial",
+      "collage_montage",
+      "surreal_concept",
+      "diagrammatic_information",
+      "material_experiment"
+    ],
+    "art_history": [
+      "swiss_international",
+      "futurism",
+      "constructivism",
+      "bauhaus",
+      "de_stijl",
+      "new_typography",
+      "art_deco",
+      "dada",
+      "surrealism",
+      "cubism",
+      "pop_art",
+      "psychedelic_graphics",
+      "new_wave_graphics",
+      "postmodern_graphics",
+      "plakatstil"
+    ]
+  },
+  "annotation_status": {
+    "reviewed": 17
+  }
+}

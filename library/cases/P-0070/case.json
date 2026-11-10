@@ -1,0 +1,82 @@
+{
+  "id": "P-0070",
+  "title": "J.C. Boldoot Eau de Cologne: Parfumerie Amsterdam",
+  "creator": "Privat-Livemont",
+  "year": "c. 1899",
+  "taxonomy_version": "0.2",
+  "original_use": "commercial",
+  "original_subjects": [],
+  "source_url": "https://www.artic.edu/artworks/16876",
+  "image_url": "https://www.artic.edu/iiif/2/ea81dbe1-8f50-896e-81f6-253fe24cf5f7/full/1200,/0/default.jpg",
+  "image_path": "cases/P-0070/preview.jpg",
+  "image_sha256": "2dad90d874cf490157a96a906566900fb11665f6aa69dc8557469703611d114e",
+  "retrieved_at": "2026-11-07T20:45:27.770190+00:00",
+  "annotation_status": "reviewed",
+  "annotator": "Codex early visual screen",
+  "annotated_at": "2026-11-08",
+  "art_history": [
+    {
+      "term_id": "art_nouveau",
+      "relation": "visual_affinity",
+      "visual_reason": "花茎与衣裙、发丝连成细长有机曲线，品牌框保留装饰边缘。"
+    }
+  ],
+  "observed": {
+    "visual_family": {
+      "primary": "ornamental_pattern",
+      "secondary": null
+    },
+    "visual_driver": "image",
+    "composition": [
+      "frame"
+    ],
+    "text_density": "low"
+  },
+  "interpreted": {
+    "tone": [
+      "intimate"
+    ],
+    "transferable_concepts": [
+      {
+        "id": "growth",
+        "reason": "花茎与衣裙曲线向上生长"
+      }
+    ]
+  },
+  "techniques": [
+    "linework",
+    "organic_curves"
+  ],
+  "typography": [
+    "custom_display"
+  ],
+  "color": {
+    "color_mode": "limited_palette",
+    "color_contrast": "strong",
+    "dominant_colors": [
+      "pink",
+      "green",
+      "yellow"
+    ]
+  },
+  "analysis": {
+    "visual_mechanism": "顶部品牌在独立浅色框中，女子和花茎构成下方连续曲线。此处描述以所见图像为依据。",
+    "transferable_method": "可迁移的编排策略：顶部品牌在独立浅色框中，女子和花茎构成下方连续曲线；改用于书籍宣传时，以书的核心物象替换主图，沿原有文字区安排书名和一条核心信息。",
+    "failure_modes": "这一结构依赖花茎与衣裙曲线向上生长；若把书名、作者和多条卖点都放到主图轮廓内部，会削弱该关系。",
+    "annotation_rationale": "Collected and initially annotated separately; root inspected the complete local image, compared the primary-source identity and corrected visible classification conflicts."
+  },
+  "review": {
+    "reviewer": "Codex root independent acceptance after collector and annotator passes",
+    "reviewed_at": "2026-11-08",
+    "image_sha256": "2dad90d874cf490157a96a906566900fb11665f6aa69dc8557469703611d114e",
+    "source_check": "Matched title, creator (including explicit unknown), date and record identity to preserved primary record aic-16876; image visually corresponds to the work.",
+    "source_urls": [
+      "https://www.artic.edu/artworks/16876"
+    ],
+    "visual_check": "Selected contact sheet 0. Full image identity, main composition, visual family, text density and source correspondence inspected; minor imprint text not transcribed. ",
+    "source_record_sha256": "c91c334de835b4ece4cc5da3c06abaa7a82f05a2dba6a57aa97979ec5526f59d"
+  },
+  "rights_note": "CC0-1.0; see CREDITS.md and rights/release-manifest.json. Release decision covers these exact image bytes under the museum designation. See the shared policy evidence for scope and third-party limits.",
+  "source_evidence": "Source record and local image identity were reviewed; see source_url and review.",
+  "notes": "Release starter reference. Rights review is separate from visual/source review."
+}

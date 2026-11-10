@@ -1,0 +1,75 @@
+{
+  "id": "P-0079",
+  "title": "Hun or Home?",
+  "creator": "Henry Patrick Raleigh",
+  "year": "1918",
+  "taxonomy_version": "0.2",
+  "original_use": "public_message",
+  "original_subjects": [],
+  "source_url": "https://www.artic.edu/artworks/7945",
+  "image_url": "https://www.artic.edu/iiif/2/4cc0909c-0f6c-43d2-4acf-1a6c55db2e9b/full/1200,/0/default.jpg",
+  "image_path": "cases/P-0079/preview.jpg",
+  "image_sha256": "8bcdac7d3b69d85381958dc523fa99f45beaa07a374f226e8693b37c01abb079",
+  "retrieved_at": "2026-11-07T20:45:26.096367+00:00",
+  "annotation_status": "reviewed",
+  "annotator": "Codex early visual screen",
+  "annotated_at": "2026-11-08",
+  "art_history": [],
+  "observed": {
+    "visual_family": {
+      "primary": "illustrative_organic",
+      "secondary": null
+    },
+    "visual_driver": "image",
+    "composition": [
+      "stacked"
+    ],
+    "text_density": "medium"
+  },
+  "interpreted": {
+    "tone": [
+      "solemn"
+    ],
+    "transferable_concepts": [
+      {
+        "id": "fragility",
+        "reason": "母婴与坍塌环境形成保护需求"
+      }
+    ]
+  },
+  "techniques": [
+    "flat_shapes"
+  ],
+  "typography": [
+    "custom_display"
+  ],
+  "color": {
+    "color_mode": "limited_palette",
+    "color_contrast": "strong",
+    "dominant_colors": [
+      "gray",
+      "black",
+      "red"
+    ]
+  },
+  "analysis": {
+    "visual_mechanism": "大问句居顶，怀抱婴孩的母亲立于右方，低矮废墟铺底。此处描述以所见图像为依据。",
+    "transferable_method": "可迁移的编排策略：大问句居顶，怀抱婴孩的母亲立于右方，低矮废墟铺底；改用于书籍宣传时，以书的核心物象替换主图，沿原有文字区安排书名和一条核心信息。",
+    "failure_modes": "这一结构依赖母婴与坍塌环境形成保护需求；若把书名、作者和多条卖点都放到主图轮廓内部，会削弱该关系。",
+    "annotation_rationale": "Collected and initially annotated separately; root inspected the complete local image, compared the primary-source identity and corrected visible classification conflicts."
+  },
+  "review": {
+    "reviewer": "Codex root independent acceptance after collector and annotator passes",
+    "reviewed_at": "2026-11-08",
+    "image_sha256": "8bcdac7d3b69d85381958dc523fa99f45beaa07a374f226e8693b37c01abb079",
+    "source_check": "Matched title, creator (including explicit unknown), date and record identity to preserved primary record aic-7945; image visually corresponds to the work.",
+    "source_urls": [
+      "https://www.artic.edu/artworks/7945"
+    ],
+    "visual_check": "Selected contact sheet 1. Full image identity, main composition, visual family, text density and source correspondence inspected; minor imprint text not transcribed. ",
+    "source_record_sha256": "37b707a125857848d8ed39e8edb645b422019a65656f7ca094981a137ff45791"
+  },
+  "rights_note": "CC0-1.0; see CREDITS.md and rights/release-manifest.json. Release decision covers these exact image bytes under the museum designation. See the shared policy evidence for scope and third-party limits.",
+  "source_evidence": "Source record and local image identity were reviewed; see source_url and review.",
+  "notes": "Release starter reference. Rights review is separate from visual/source review."
+}

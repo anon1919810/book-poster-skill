@@ -1,0 +1,17 @@
+{
+  "id": "P-0080",
+  "api_url": "https://api.artic.edu/api/v1/artworks/82287",
+  "checked_at": "2026-11-10T18:37:01.516743+00:00",
+  "is_public_domain": true,
+  "image_id": "1d82da66-d99e-f4f6-d5fc-56b22b6678ba",
+  "image_id_matches": true,
+  "image_sha256": "cd61b2d7b9acdf22fde9ac3e0c01322868456f15c50215b65021c9cb1a56d830",
+  "remote_image_sha256": "cd61b2d7b9acdf22fde9ac3e0c01322868456f15c50215b65021c9cb1a56d830",
+  "identical_bytes": true,
+  "title": "Moulin Rouge, La Goulue",
+  "credit_line": "Mr. and Mrs. Carter H. Harrison Collection",
+  "copyright_notice": null,
+  "api_sha256": "dd72b365f2e1be30bea9927bda820931fae49763c8c40331b74e11c1442fa238",
+  "source_url": "https://www.artic.edu/artworks/82287",
+  "image_url": "https://www.artic.edu/iiif/2/1d82da66-d99e-f4f6-d5fc-56b22b6678ba/full/1200,/0/default.jpg"
+}

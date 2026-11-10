@@ -1,0 +1,17 @@
+{
+  "id": "P-0066",
+  "api_url": "https://api.artic.edu/api/v1/artworks/13598",
+  "checked_at": "2026-11-10T18:36:54.572249+00:00",
+  "is_public_domain": true,
+  "image_id": "31d7fb60-ddd1-c78d-1cc1-eca25cb603c1",
+  "image_id_matches": true,
+  "image_sha256": "011d925893fabb2dbabd16c33f81192bfe8e8f8f14a9ca19c910349037695d5d",
+  "remote_image_sha256": "011d925893fabb2dbabd16c33f81192bfe8e8f8f14a9ca19c910349037695d5d",
+  "identical_bytes": true,
+  "title": "Aristide Bruant",
+  "credit_line": "Robert Forsyth Collection",
+  "copyright_notice": null,
+  "api_sha256": "b1d1582e7db04143ffe782b8f1f93a70c301e713ddadac0c5c7198f3d9d45b33",
+  "source_url": "https://www.artic.edu/artworks/13598",
+  "image_url": "https://www.artic.edu/iiif/2/31d7fb60-ddd1-c78d-1cc1-eca25cb603c1/full/1200,/0/default.jpg"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "P-0071",
+  "api_url": "https://api.artic.edu/api/v1/artworks/17079",
+  "checked_at": "2026-11-10T18:36:56.604513+00:00",
+  "is_public_domain": true,
+  "image_id": "6127bf0f-24ca-fb9a-8be9-84fd3d8dc7de",
+  "image_id_matches": true,
+  "image_sha256": "21ebd5663b4408f8bcd8efc9d8248ef89325887bdcb868efce54fb9bda010c05",
+  "remote_image_sha256": "21ebd5663b4408f8bcd8efc9d8248ef89325887bdcb868efce54fb9bda010c05",
+  "identical_bytes": true,
+  "title": "Time Cooperative",
+  "credit_line": "Mrs. Victor F. Lawson Collection",
+  "copyright_notice": null,
+  "api_sha256": "3cdd8ada8acb783ac71da1298d886c736c0299344f13c9bf6cba11297e14aebe",
+  "source_url": "https://www.artic.edu/artworks/17079",
+  "image_url": "https://www.artic.edu/iiif/2/6127bf0f-24ca-fb9a-8be9-84fd3d8dc7de/full/1200,/0/default.jpg"
+}

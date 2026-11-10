@@ -1,0 +1,17 @@
+{
+  "id": "P-0068",
+  "api_url": "https://api.artic.edu/api/v1/artworks/13606",
+  "checked_at": "2026-11-10T18:36:54.573250+00:00",
+  "is_public_domain": true,
+  "image_id": "46cb742b-aeea-56bd-d319-fc0cca59f676",
+  "image_id_matches": true,
+  "image_sha256": "4c4efacc3e1c6de98d11f2e8c3bbdf4d2cac65152c996c0391899ade86f12326",
+  "remote_image_sha256": "4c4efacc3e1c6de98d11f2e8c3bbdf4d2cac65152c996c0391899ade86f12326",
+  "identical_bytes": true,
+  "title": "La revue blanche",
+  "credit_line": "Clarence Buckingham Collection",
+  "copyright_notice": null,
+  "api_sha256": "89d2a8d328f5631ac035a24aea6070e59f2cbfd7fa1fa5d988221afec79316ec",
+  "source_url": "https://www.artic.edu/artworks/13606",
+  "image_url": "https://www.artic.edu/iiif/2/46cb742b-aeea-56bd-d319-fc0cca59f676/full/1200,/0/default.jpg"
+}

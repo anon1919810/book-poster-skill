@@ -1,0 +1,17 @@
+{
+  "id": "P-0076",
+  "api_url": "https://api.artic.edu/api/v1/artworks/77088",
+  "checked_at": "2026-11-10T18:36:58.939731+00:00",
+  "is_public_domain": true,
+  "image_id": "273e2e3a-2ce8-d9bb-a642-69b65f5e6aee",
+  "image_id_matches": true,
+  "image_sha256": "66c18f0d87700a31458a33f0a2ca019e221e938dde1eeea825eb3ab2a6991dbb",
+  "remote_image_sha256": "66c18f0d87700a31458a33f0a2ca019e221e938dde1eeea825eb3ab2a6991dbb",
+  "identical_bytes": true,
+  "title": "The Day of the Doughboy",
+  "credit_line": "Gift of Mr. Robertson",
+  "copyright_notice": null,
+  "api_sha256": "526bb91bf352a535d3f8b7a56e53010e9eb6662c0011dff9ffb040f2d2d1053d",
+  "source_url": "https://www.artic.edu/artworks/77088",
+  "image_url": "https://www.artic.edu/iiif/2/273e2e3a-2ce8-d9bb-a642-69b65f5e6aee/full/1200,/0/default.jpg"
+}

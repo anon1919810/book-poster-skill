@@ -1,0 +1,17 @@
+{
+  "id": "P-0067",
+  "api_url": "https://api.artic.edu/api/v1/artworks/13602",
+  "checked_at": "2026-11-10T18:36:54.573250+00:00",
+  "is_public_domain": true,
+  "image_id": "d78ac119-9ded-9ce4-93fb-baf3f5607d79",
+  "image_id_matches": true,
+  "image_sha256": "013ba9811bcfc31753cfe826527e251e3cfd0a339d55897bbd12b7608c8e62c2",
+  "remote_image_sha256": "013ba9811bcfc31753cfe826527e251e3cfd0a339d55897bbd12b7608c8e62c2",
+  "identical_bytes": true,
+  "title": "L'Artisan Moderne",
+  "credit_line": "Clarence Buckingham Collection",
+  "copyright_notice": null,
+  "api_sha256": "f6596e341e3121f67766844f731674fad501434bb87ef4fbcbe1a89fd23aca3d",
+  "source_url": "https://www.artic.edu/artworks/13602",
+  "image_url": "https://www.artic.edu/iiif/2/d78ac119-9ded-9ce4-93fb-baf3f5607d79/full/1200,/0/default.jpg"
+}

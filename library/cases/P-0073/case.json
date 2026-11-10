@@ -1,0 +1,75 @@
+{
+  "id": "P-0073",
+  "title": "Subscribe in Order to Hasten Peace through Victory.",
+  "creator": "Albert Besnard",
+  "year": "1917",
+  "taxonomy_version": "0.2",
+  "original_use": "public_message",
+  "original_subjects": [],
+  "source_url": "https://www.artic.edu/artworks/31114",
+  "image_url": "https://www.artic.edu/iiif/2/bf4eda97-f0a0-6450-7e56-01fa57f424da/full/1200,/0/default.jpg",
+  "image_path": "cases/P-0073/preview.jpg",
+  "image_sha256": "17a5c468cc0775ec46f717b6c9192e405d94d192392feaec7dd7462b92e2423d",
+  "retrieved_at": "2026-11-07T20:45:32.158688+00:00",
+  "annotation_status": "reviewed",
+  "annotator": "Codex early visual screen",
+  "annotated_at": "2026-11-08",
+  "art_history": [],
+  "observed": {
+    "visual_family": {
+      "primary": "illustrative_organic",
+      "secondary": null
+    },
+    "visual_driver": "image",
+    "composition": [
+      "asymmetric"
+    ],
+    "text_density": "medium"
+  },
+  "interpreted": {
+    "tone": [
+      "solemn"
+    ],
+    "transferable_concepts": [
+      {
+        "id": "power",
+        "reason": "前景家庭由后方巨大英雄形象庇护"
+      }
+    ]
+  },
+  "techniques": [
+    "flat_shapes"
+  ],
+  "typography": [
+    "custom_display"
+  ],
+  "color": {
+    "color_mode": "limited_palette",
+    "color_contrast": "strong",
+    "dominant_colors": [
+      "red",
+      "blue",
+      "gray"
+    ]
+  },
+  "analysis": {
+    "visual_mechanism": "母婴在左前，持剑羽翼人物横向伸展，右下保留文字区域。此处描述以所见图像为依据。",
+    "transferable_method": "可迁移的编排策略：母婴在左前，持剑羽翼人物横向伸展，右下保留文字区域；改用于书籍宣传时，以书的核心物象替换主图，沿原有文字区安排书名和一条核心信息。",
+    "failure_modes": "这一结构依赖前景家庭由后方巨大英雄形象庇护；若把书名、作者和多条卖点都放到主图轮廓内部，会削弱该关系。",
+    "annotation_rationale": "Collected and initially annotated separately; root inspected the complete local image, compared the primary-source identity and corrected visible classification conflicts."
+  },
+  "review": {
+    "reviewer": "Codex root independent acceptance after collector and annotator passes",
+    "reviewed_at": "2026-11-08",
+    "image_sha256": "17a5c468cc0775ec46f717b6c9192e405d94d192392feaec7dd7462b92e2423d",
+    "source_check": "Matched title, creator (including explicit unknown), date and record identity to preserved primary record aic-31114; image visually corresponds to the work.",
+    "source_urls": [
+      "https://www.artic.edu/artworks/31114"
+    ],
+    "visual_check": "Selected contact sheet 0. Full image identity, main composition, visual family, text density and source correspondence inspected; minor imprint text not transcribed. ",
+    "source_record_sha256": "02ca8dfb3fb97c2028546ec961611f51bf27fc9f77370ec8782b91d8166f4eee"
+  },
+  "rights_note": "CC0-1.0; see CREDITS.md and rights/release-manifest.json. Release decision covers these exact image bytes under the museum designation. See the shared policy evidence for scope and third-party limits.",
+  "source_evidence": "Source record and local image identity were reviewed; see source_url and review.",
+  "notes": "Release starter reference. Rights review is separate from visual/source review."
+}

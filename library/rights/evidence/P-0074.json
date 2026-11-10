@@ -1,0 +1,17 @@
+{
+  "id": "P-0074",
+  "api_url": "https://api.artic.edu/api/v1/artworks/31656",
+  "checked_at": "2026-11-10T18:36:58.184459+00:00",
+  "is_public_domain": true,
+  "image_id": "1335436b-1ab5-8f4d-470e-60c2b71ac621",
+  "image_id_matches": true,
+  "image_sha256": "bd1dd39dc95245aca67320fa803030a09f8ed3f080cbe8f8d3cac90a630eafa8",
+  "remote_image_sha256": "bd1dd39dc95245aca67320fa803030a09f8ed3f080cbe8f8d3cac90a630eafa8",
+  "identical_bytes": true,
+  "title": "The Liberation Loan",
+  "credit_line": "Gift of Walter S. Brewster",
+  "copyright_notice": null,
+  "api_sha256": "11b535d071a106cd0ec902f2f01340bdddc67583407e21f95452c11323e29a04",
+  "source_url": "https://www.artic.edu/artworks/31656",
+  "image_url": "https://www.artic.edu/iiif/2/1335436b-1ab5-8f4d-470e-60c2b71ac621/full/1200,/0/default.jpg"
+}

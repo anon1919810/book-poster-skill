@@ -1,0 +1,4 @@
+{
+  "library_root": "../../library",
+  "usage_ledger": "../../.poster/reference-usage.jsonl"
+}

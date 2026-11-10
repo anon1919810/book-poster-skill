@@ -1,0 +1,75 @@
+{
+  "id": "P-0072",
+  "title": "Halt the Hun! Buy U.S. Government Bonds Third Liberty Loan",
+  "creator": "Henry Patrick Raleigh",
+  "year": "1918",
+  "taxonomy_version": "0.2",
+  "original_use": "public_message",
+  "original_subjects": [],
+  "source_url": "https://www.artic.edu/artworks/31045",
+  "image_url": "https://www.artic.edu/iiif/2/045fd504-e9ff-5f01-b59c-55b98c98d6f2/full/1200,/0/default.jpg",
+  "image_path": "cases/P-0072/preview.jpg",
+  "image_sha256": "0718af640865555722bea959757be96654bea8eb839c5c57a4625c1cd55a2bb2",
+  "retrieved_at": "2026-11-07T20:45:29.156699+00:00",
+  "annotation_status": "reviewed",
+  "annotator": "Codex early visual screen",
+  "annotated_at": "2026-11-08",
+  "art_history": [],
+  "observed": {
+    "visual_family": {
+      "primary": "illustrative_organic",
+      "secondary": null
+    },
+    "visual_driver": "image",
+    "composition": [
+      "stacked"
+    ],
+    "text_density": "medium"
+  },
+  "interpreted": {
+    "tone": [
+      "dramatic"
+    ],
+    "transferable_concepts": [
+      {
+        "id": "power",
+        "reason": "站立持枪者与低位家庭的高差表现保护力量"
+      }
+    ]
+  },
+  "techniques": [
+    "flat_shapes"
+  ],
+  "typography": [
+    "custom_display"
+  ],
+  "color": {
+    "color_mode": "limited_palette",
+    "color_contrast": "strong",
+    "dominant_colors": [
+      "red",
+      "black",
+      "white"
+    ]
+  },
+  "analysis": {
+    "visual_mechanism": "红色命令居顶，直立士兵高于被保护家庭，底部黑条压住行动文字。此处描述以所见图像为依据。",
+    "transferable_method": "可迁移的编排策略：红色命令居顶，直立士兵高于被保护家庭，底部黑条压住行动文字；改用于书籍宣传时，以书的核心物象替换主图，沿原有文字区安排书名和一条核心信息。",
+    "failure_modes": "这一结构依赖站立持枪者与低位家庭的高差表现保护力量；若把书名、作者和多条卖点都放到主图轮廓内部，会削弱该关系。",
+    "annotation_rationale": "Collected and initially annotated separately; root inspected the complete local image, compared the primary-source identity and corrected visible classification conflicts."
+  },
+  "review": {
+    "reviewer": "Codex root independent acceptance after collector and annotator passes",
+    "reviewed_at": "2026-11-08",
+    "image_sha256": "0718af640865555722bea959757be96654bea8eb839c5c57a4625c1cd55a2bb2",
+    "source_check": "Matched title, creator (including explicit unknown), date and record identity to preserved primary record aic-31045; image visually corresponds to the work.",
+    "source_urls": [
+      "https://www.artic.edu/artworks/31045"
+    ],
+    "visual_check": "Selected contact sheet 0. Full image identity, main composition, visual family, text density and source correspondence inspected; minor imprint text not transcribed. ",
+    "source_record_sha256": "546e7f441b7b4067212b8a42ece96784d4f060aae132910c9ffe28376979cbed"
+  },
+  "rights_note": "CC0-1.0; see CREDITS.md and rights/release-manifest.json. Release decision covers these exact image bytes under the museum designation. See the shared policy evidence for scope and third-party limits.",
+  "source_evidence": "Source record and local image identity were reviewed; see source_url and review.",
+  "notes": "Release starter reference. Rights review is separate from visual/source review."
+}

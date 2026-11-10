@@ -1,0 +1,76 @@
+{
+  "id": "P-0075",
+  "title": "The Good Fire - Remember those who are cold",
+  "creator": "Jean Louis Forain",
+  "year": "c. 1916",
+  "taxonomy_version": "0.2",
+  "original_use": "public_message",
+  "original_subjects": [],
+  "source_url": "https://www.artic.edu/artworks/77065",
+  "image_url": "https://www.artic.edu/iiif/2/0c68abcc-ae8b-ee53-0382-b891245a73d2/full/1200,/0/default.jpg",
+  "image_path": "cases/P-0075/preview.jpg",
+  "image_sha256": "1e2e4fe7c3992638556d69b8c61ca35ce4f400d5089b3f8077426b1700ac91c2",
+  "retrieved_at": "2026-11-07T20:45:32.660582+00:00",
+  "annotation_status": "reviewed",
+  "annotator": "Codex early visual screen",
+  "annotated_at": "2026-11-08",
+  "art_history": [],
+  "observed": {
+    "visual_family": {
+      "primary": "illustrative_organic",
+      "secondary": null
+    },
+    "visual_driver": "image",
+    "composition": [
+      "stacked"
+    ],
+    "text_density": "high"
+  },
+  "interpreted": {
+    "tone": [
+      "solemn"
+    ],
+    "transferable_concepts": [
+      {
+        "id": "fragility",
+        "reason": "人物单薄线条和室内空旷共同表现匮乏"
+      }
+    ]
+  },
+  "techniques": [
+    "linework",
+    "organic_curves"
+  ],
+  "typography": [
+    "custom_display"
+  ],
+  "color": {
+    "color_mode": "limited_palette",
+    "color_contrast": "strong",
+    "dominant_colors": [
+      "red",
+      "gray",
+      "white"
+    ]
+  },
+  "analysis": {
+    "visual_mechanism": "顶部红字与底部长段募捐文夹住中央稀疏线描室内。此处描述以所见图像为依据。",
+    "transferable_method": "可迁移的编排策略：顶部红字与底部长段募捐文夹住中央稀疏线描室内；改用于书籍宣传时，以书的核心物象替换主图，沿原有文字区安排书名和一条核心信息。",
+    "failure_modes": "这一结构依赖人物单薄线条和室内空旷共同表现匮乏；若把书名、作者和多条卖点都放到主图轮廓内部，会削弱该关系。",
+    "annotation_rationale": "Collected and initially annotated separately; root inspected the complete local image, compared the primary-source identity and corrected visible classification conflicts."
+  },
+  "review": {
+    "reviewer": "Codex root independent acceptance after collector and annotator passes",
+    "reviewed_at": "2026-11-08",
+    "image_sha256": "1e2e4fe7c3992638556d69b8c61ca35ce4f400d5089b3f8077426b1700ac91c2",
+    "source_check": "Matched title, creator (including explicit unknown), date and record identity to preserved primary record aic-77065; image visually corresponds to the work.",
+    "source_urls": [
+      "https://www.artic.edu/artworks/77065"
+    ],
+    "visual_check": "Selected contact sheet 0. Full image identity, main composition, visual family, text density and source correspondence inspected; minor imprint text not transcribed. ",
+    "source_record_sha256": "2bf9a983e50457256a08cacaf63e03e012c5b10c2eb98888b9b1d819515f5f70"
+  },
+  "rights_note": "CC0-1.0; see CREDITS.md and rights/release-manifest.json. Release decision covers these exact image bytes under the museum designation. See the shared policy evidence for scope and third-party limits.",
+  "source_evidence": "Source record and local image identity were reviewed; see source_url and review.",
+  "notes": "Release starter reference. Rights review is separate from visual/source review."
+}

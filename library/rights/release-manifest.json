@@ -1,0 +1,498 @@
+{
+  "schema_version": 1,
+  "cases": [
+    {
+      "id": "P-0065",
+      "image_sha256": "418d9f50d3f293abb5b5ce4f064dcd801312e85915f34e6773eeb83f989b3ee7",
+      "image_status": "approved",
+      "basis": "CC0-1.0",
+      "evidence_urls": [
+        "https://api.artic.edu/api/v1/artworks/111986",
+        "https://www.artic.edu/artworks/111986",
+        "https://www.artic.edu/terms",
+        "https://api.artic.edu/docs/",
+        "https://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "evidence_files": [
+        {
+          "path": "rights/evidence/P-0065.json",
+          "sha256": "19f6a9b9688f5106802ddc1438908ff036c5c397cca207fa6231bb4f2184aa64"
+        },
+        {
+          "path": "rights/evidence/aic-terms-review.json",
+          "sha256": "921b6629c3a049fcc2766ca21042a7258fed43ae0b50994babe356d7706f25e4"
+        }
+      ],
+      "verified_at": "2026-11-11",
+      "reviewer": "Codex primary-source rights and exact-image review",
+      "attribution": "Alphonse Marie Mucha. Zodiaque (\"La Plume\"), 1896–97. The Art Institute of Chicago. Mrs. Victor F. Lawson Collection.",
+      "attribution_required": false,
+      "notes": "Release decision covers these exact image bytes under the museum designation. See the shared policy evidence for scope and third-party limits.",
+      "case_sha256": "a9f57a3ee53818d9fe5403c63964913d3b7162b0b48b3e68baa8c7d5543ccdcc"
+    },
+    {
+      "id": "P-0066",
+      "image_sha256": "011d925893fabb2dbabd16c33f81192bfe8e8f8f14a9ca19c910349037695d5d",
+      "image_status": "approved",
+      "basis": "CC0-1.0",
+      "evidence_urls": [
+        "https://api.artic.edu/api/v1/artworks/13598",
+        "https://www.artic.edu/artworks/13598",
+        "https://www.artic.edu/terms",
+        "https://api.artic.edu/docs/",
+        "https://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "evidence_files": [
+        {
+          "path": "rights/evidence/P-0066.json",
+          "sha256": "8e92ebc7b773633626d6e8a7eb27098e8b2a2e6fc67933675d044adc028d0ad0"
+        },
+        {
+          "path": "rights/evidence/aic-terms-review.json",
+          "sha256": "921b6629c3a049fcc2766ca21042a7258fed43ae0b50994babe356d7706f25e4"
+        }
+      ],
+      "verified_at": "2026-11-11",
+      "reviewer": "Codex primary-source rights and exact-image review",
+      "attribution": "Henri de Toulouse-Lautrec. Aristide Bruant, 1893. The Art Institute of Chicago. Robert Forsyth Collection.",
+      "attribution_required": false,
+      "notes": "Release decision covers these exact image bytes under the museum designation. See the shared policy evidence for scope and third-party limits.",
+      "case_sha256": "c5202d33e0f3cdad8d266ea8a8cc17d596379b8dbb022bf48c62b438dba44a25"
+    },
+    {
+      "id": "P-0067",
+      "image_sha256": "013ba9811bcfc31753cfe826527e251e3cfd0a339d55897bbd12b7608c8e62c2",
+      "image_status": "approved",
+      "basis": "CC0-1.0",
+      "evidence_urls": [
+        "https://api.artic.edu/api/v1/artworks/13602",
+        "https://www.artic.edu/artworks/13602",
+        "https://www.artic.edu/terms",
+        "https://api.artic.edu/docs/",
+        "https://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "evidence_files": [
+        {
+          "path": "rights/evidence/P-0067.json",
+          "sha256": "33ca571bcd1ef5857d0bffa8fc29b7fc74852b5056d06f2215a0b232613547dc"
+        },
+        {
+          "path": "rights/evidence/aic-terms-review.json",
+          "sha256": "921b6629c3a049fcc2766ca21042a7258fed43ae0b50994babe356d7706f25e4"
+        }
+      ],
+      "verified_at": "2026-11-11",
+      "reviewer": "Codex primary-source rights and exact-image review",
+      "attribution": "Henri de Toulouse-Lautrec. L'Artisan Moderne, 1896. The Art Institute of Chicago. Clarence Buckingham Collection.",
+      "attribution_required": false,
+      "notes": "Release decision covers these exact image bytes under the museum designation. See the shared policy evidence for scope and third-party limits.",
+      "case_sha256": "519c2951df6cd12285bb79a5902802ba258ca656b1b04a3f77eb9aa6ea43bc43"
+    },
+    {
+      "id": "P-0068",
+      "image_sha256": "4c4efacc3e1c6de98d11f2e8c3bbdf4d2cac65152c996c0391899ade86f12326",
+      "image_status": "approved",
+      "basis": "CC0-1.0",
+      "evidence_urls": [
+        "https://api.artic.edu/api/v1/artworks/13606",
+        "https://www.artic.edu/artworks/13606",
+        "https://www.artic.edu/terms",
+        "https://api.artic.edu/docs/",
+        "https://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "evidence_files": [
+        {
+          "path": "rights/evidence/P-0068.json",
+          "sha256": "751307c496536694cbb93c1b32830e411847c727e206a4594e7642a3ff4d88e4"
+        },
+        {
+          "path": "rights/evidence/aic-terms-review.json",
+          "sha256": "921b6629c3a049fcc2766ca21042a7258fed43ae0b50994babe356d7706f25e4"
+        }
+      ],
+      "verified_at": "2026-11-11",
+      "reviewer": "Codex primary-source rights and exact-image review",
+      "attribution": "Henri de Toulouse-Lautrec. La revue blanche, 1895. The Art Institute of Chicago. Clarence Buckingham Collection.",
+      "attribution_required": false,
+      "notes": "Release decision covers these exact image bytes under the museum designation. See the shared policy evidence for scope and third-party limits.",
+      "case_sha256": "8d37a77a1cb96d63794695f9745d8629d678bc99018ea8b29228a5338f03142d"
+    },
+    {
+      "id": "P-0069",
+      "image_sha256": "805e4dbb649590cbab39b18b588575d5b16208d1f6260dda7630279f205d1ac3",
+      "image_status": "approved",
+      "basis": "CC0-1.0",
+      "evidence_urls": [
+        "https://api.artic.edu/api/v1/artworks/146469",
+        "https://www.artic.edu/artworks/146469",
+        "https://www.artic.edu/terms",
+        "https://api.artic.edu/docs/",
+        "https://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "evidence_files": [
+        {
+          "path": "rights/evidence/P-0069.json",
+          "sha256": "3f513f94cb8ba86196074ef70d8da4babd596aa607d7f929282a4d7e246156ae"
+        },
+        {
+          "path": "rights/evidence/aic-terms-review.json",
+          "sha256": "921b6629c3a049fcc2766ca21042a7258fed43ae0b50994babe356d7706f25e4"
+        }
+      ],
+      "verified_at": "2026-11-11",
+      "reviewer": "Codex primary-source rights and exact-image review",
+      "attribution": "Edward Penfield. Will You Help the Women of France?, 1917. The Art Institute of Chicago. The Art Institute of Chicago.",
+      "attribution_required": false,
+      "notes": "Release decision covers these exact image bytes under the museum designation. See the shared policy evidence for scope and third-party limits.",
+      "case_sha256": "c2c7a8018891030941330ce7414b8e2362f21f6fa7a7474e18aee05ef2d2a6ee"
+    },
+    {
+      "id": "P-0070",
+      "image_sha256": "2dad90d874cf490157a96a906566900fb11665f6aa69dc8557469703611d114e",
+      "image_status": "approved",
+      "basis": "CC0-1.0",
+      "evidence_urls": [
+        "https://api.artic.edu/api/v1/artworks/16876",
+        "https://www.artic.edu/artworks/16876",
+        "https://www.artic.edu/terms",
+        "https://api.artic.edu/docs/",
+        "https://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "evidence_files": [
+        {
+          "path": "rights/evidence/P-0070.json",
+          "sha256": "ccbf5a925573df1a203144e133e088181d83e161d87b4ced115b9d030a095520"
+        },
+        {
+          "path": "rights/evidence/aic-terms-review.json",
+          "sha256": "921b6629c3a049fcc2766ca21042a7258fed43ae0b50994babe356d7706f25e4"
+        }
+      ],
+      "verified_at": "2026-11-11",
+      "reviewer": "Codex primary-source rights and exact-image review",
+      "attribution": "Privat-Livemont. J.C. Boldoot Eau de Cologne: Parfumerie Amsterdam, c. 1899. The Art Institute of Chicago. Mrs. Victor F. Lawson Collection.",
+      "attribution_required": false,
+      "notes": "Release decision covers these exact image bytes under the museum designation. See the shared policy evidence for scope and third-party limits.",
+      "case_sha256": "4a293dc192a28fe11214205af2a2637bd4ce829316a79d3fe619b2079ad96915"
+    },
+    {
+      "id": "P-0071",
+      "image_sha256": "21ebd5663b4408f8bcd8efc9d8248ef89325887bdcb868efce54fb9bda010c05",
+      "image_status": "approved",
+      "basis": "CC0-1.0",
+      "evidence_urls": [
+        "https://api.artic.edu/api/v1/artworks/17079",
+        "https://www.artic.edu/artworks/17079",
+        "https://www.artic.edu/terms",
+        "https://api.artic.edu/docs/",
+        "https://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "evidence_files": [
+        {
+          "path": "rights/evidence/P-0071.json",
+          "sha256": "b7d1b3837efb5cc510530aba903d25eda664025d35f1819906947cc7aab1c300"
+        },
+        {
+          "path": "rights/evidence/aic-terms-review.json",
+          "sha256": "921b6629c3a049fcc2766ca21042a7258fed43ae0b50994babe356d7706f25e4"
+        }
+      ],
+      "verified_at": "2026-11-11",
+      "reviewer": "Codex primary-source rights and exact-image review",
+      "attribution": "Adolf Hohenstein. Time Cooperative, 1899. The Art Institute of Chicago. Mrs. Victor F. Lawson Collection.",
+      "attribution_required": false,
+      "notes": "Release decision covers these exact image bytes under the museum designation. See the shared policy evidence for scope and third-party limits.",
+      "case_sha256": "530d3407842e411a6f1c7c9a9ebf118ed9778f1584c628d4b3ae4b1eead8e818"
+    },
+    {
+      "id": "P-0072",
+      "image_sha256": "0718af640865555722bea959757be96654bea8eb839c5c57a4625c1cd55a2bb2",
+      "image_status": "approved",
+      "basis": "CC0-1.0",
+      "evidence_urls": [
+        "https://api.artic.edu/api/v1/artworks/31045",
+        "https://www.artic.edu/artworks/31045",
+        "https://www.artic.edu/terms",
+        "https://api.artic.edu/docs/",
+        "https://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "evidence_files": [
+        {
+          "path": "rights/evidence/P-0072.json",
+          "sha256": "3160b9d2960b72788af3eeef186336f369a23e8f7315d8e3a76bb2180732e0e6"
+        },
+        {
+          "path": "rights/evidence/aic-terms-review.json",
+          "sha256": "921b6629c3a049fcc2766ca21042a7258fed43ae0b50994babe356d7706f25e4"
+        }
+      ],
+      "verified_at": "2026-11-11",
+      "reviewer": "Codex primary-source rights and exact-image review",
+      "attribution": "Henry Patrick Raleigh. Halt the Hun! Buy U.S. Government Bonds Third Liberty Loan, 1918. The Art Institute of Chicago. Gift of Walter S. Brewster.",
+      "attribution_required": false,
+      "notes": "Release decision covers these exact image bytes under the museum designation. See the shared policy evidence for scope and third-party limits.",
+      "case_sha256": "d14ec383a72e5fa88797b92f121e972a0a6ff3cb1e4c3be242de912382b63d9e"
+    },
+    {
+      "id": "P-0073",
+      "image_sha256": "17a5c468cc0775ec46f717b6c9192e405d94d192392feaec7dd7462b92e2423d",
+      "image_status": "approved",
+      "basis": "CC0-1.0",
+      "evidence_urls": [
+        "https://api.artic.edu/api/v1/artworks/31114",
+        "https://www.artic.edu/artworks/31114",
+        "https://www.artic.edu/terms",
+        "https://api.artic.edu/docs/",
+        "https://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "evidence_files": [
+        {
+          "path": "rights/evidence/P-0073.json",
+          "sha256": "14deb29f1b0851533a23d020337fd5772d1022378eb45a76882587b891ec0a05"
+        },
+        {
+          "path": "rights/evidence/aic-terms-review.json",
+          "sha256": "921b6629c3a049fcc2766ca21042a7258fed43ae0b50994babe356d7706f25e4"
+        }
+      ],
+      "verified_at": "2026-11-11",
+      "reviewer": "Codex primary-source rights and exact-image review",
+      "attribution": "Albert Besnard. Subscribe in Order to Hasten Peace through Victory., 1917. The Art Institute of Chicago. Gift of Walter S. Brewster.",
+      "attribution_required": false,
+      "notes": "Release decision covers these exact image bytes under the museum designation. See the shared policy evidence for scope and third-party limits.",
+      "case_sha256": "7a07dfbe1acc1bbf0044bd81bba5e383e1fae2f9e17df9a156cfa065836c0055"
+    },
+    {
+      "id": "P-0074",
+      "image_sha256": "bd1dd39dc95245aca67320fa803030a09f8ed3f080cbe8f8d3cac90a630eafa8",
+      "image_status": "approved",
+      "basis": "CC0-1.0",
+      "evidence_urls": [
+        "https://api.artic.edu/api/v1/artworks/31656",
+        "https://www.artic.edu/artworks/31656",
+        "https://www.artic.edu/terms",
+        "https://api.artic.edu/docs/",
+        "https://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "evidence_files": [
+        {
+          "path": "rights/evidence/P-0074.json",
+          "sha256": "f986cf16e5884e8fbf0468747b0ce24dca0f199950ae6e8658b757d0f3875c0b"
+        },
+        {
+          "path": "rights/evidence/aic-terms-review.json",
+          "sha256": "921b6629c3a049fcc2766ca21042a7258fed43ae0b50994babe356d7706f25e4"
+        }
+      ],
+      "verified_at": "2026-11-11",
+      "reviewer": "Codex primary-source rights and exact-image review",
+      "attribution": "Abel Faivre. The Liberation Loan, 1918–20. The Art Institute of Chicago. Gift of Walter S. Brewster.",
+      "attribution_required": false,
+      "notes": "Release decision covers these exact image bytes under the museum designation. See the shared policy evidence for scope and third-party limits.",
+      "case_sha256": "94f2c93b49f1e259154b24104420c51afd65fd947a0f289be1fd138adda1598a"
+    },
+    {
+      "id": "P-0075",
+      "image_sha256": "1e2e4fe7c3992638556d69b8c61ca35ce4f400d5089b3f8077426b1700ac91c2",
+      "image_status": "approved",
+      "basis": "CC0-1.0",
+      "evidence_urls": [
+        "https://api.artic.edu/api/v1/artworks/77065",
+        "https://www.artic.edu/artworks/77065",
+        "https://www.artic.edu/terms",
+        "https://api.artic.edu/docs/",
+        "https://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "evidence_files": [
+        {
+          "path": "rights/evidence/P-0075.json",
+          "sha256": "15f508e9578fd0ea3aef6f56f533c8633242567868d6448eb0675bb97a746838"
+        },
+        {
+          "path": "rights/evidence/aic-terms-review.json",
+          "sha256": "921b6629c3a049fcc2766ca21042a7258fed43ae0b50994babe356d7706f25e4"
+        }
+      ],
+      "verified_at": "2026-11-11",
+      "reviewer": "Codex primary-source rights and exact-image review",
+      "attribution": "Jean Louis Forain. The Good Fire - Remember those who are cold, c. 1916. The Art Institute of Chicago. Gift of Mr. Robertson.",
+      "attribution_required": false,
+      "notes": "Release decision covers these exact image bytes under the museum designation. See the shared policy evidence for scope and third-party limits.",
+      "case_sha256": "c7d3353e4086236e3d0b8211a96d6cff8cb44bac96f69385c6fbba2ebbac8321"
+    },
+    {
+      "id": "P-0076",
+      "image_sha256": "66c18f0d87700a31458a33f0a2ca019e221e938dde1eeea825eb3ab2a6991dbb",
+      "image_status": "approved",
+      "basis": "CC0-1.0",
+      "evidence_urls": [
+        "https://api.artic.edu/api/v1/artworks/77088",
+        "https://www.artic.edu/artworks/77088",
+        "https://www.artic.edu/terms",
+        "https://api.artic.edu/docs/",
+        "https://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "evidence_files": [
+        {
+          "path": "rights/evidence/P-0076.json",
+          "sha256": "463f58db809a0008435dd096aa021151f5156a677077bf8659b572bea072ae87"
+        },
+        {
+          "path": "rights/evidence/aic-terms-review.json",
+          "sha256": "921b6629c3a049fcc2766ca21042a7258fed43ae0b50994babe356d7706f25e4"
+        }
+      ],
+      "verified_at": "2026-11-11",
+      "reviewer": "Codex primary-source rights and exact-image review",
+      "attribution": "Théophile-Alexandre Pierre Steinlen. The Day of the Doughboy, 1915. The Art Institute of Chicago. Gift of Mr. Robertson.",
+      "attribution_required": false,
+      "notes": "Release decision covers these exact image bytes under the museum designation. See the shared policy evidence for scope and third-party limits.",
+      "case_sha256": "d2e6a0855e415cd19f052db27376896ee3b86c141658bf9c7e8e5c05274f53f6"
+    },
+    {
+      "id": "P-0077",
+      "image_sha256": "e020a5a0cc150f92f4e77981ff77ac6bc370416744ba2b7e2cebafccaf0e4bfb",
+      "image_status": "approved",
+      "basis": "CC0-1.0",
+      "evidence_urls": [
+        "https://api.artic.edu/api/v1/artworks/77145",
+        "https://www.artic.edu/artworks/77145",
+        "https://www.artic.edu/terms",
+        "https://api.artic.edu/docs/",
+        "https://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "evidence_files": [
+        {
+          "path": "rights/evidence/P-0077.json",
+          "sha256": "be056de5405ea56d26c7c0bb8e54f33332cdad0d9fb325358e40a7be6c094d6a"
+        },
+        {
+          "path": "rights/evidence/aic-terms-review.json",
+          "sha256": "921b6629c3a049fcc2766ca21042a7258fed43ae0b50994babe356d7706f25e4"
+        }
+      ],
+      "verified_at": "2026-11-11",
+      "reviewer": "Codex primary-source rights and exact-image review",
+      "attribution": "John Singer Sargent. Red Cross Our Day 1917, 1917. The Art Institute of Chicago. Gift of Mr. Robertson.",
+      "attribution_required": false,
+      "notes": "Release decision covers these exact image bytes under the museum designation. See the shared policy evidence for scope and third-party limits.",
+      "case_sha256": "4dff837cf0a8921cc6f06cafcadf8f2631016e4997ce4cafed23034cee1549b5"
+    },
+    {
+      "id": "P-0078",
+      "image_sha256": "e77616df4e7d852c470d14cbebe4162c5f38db8b7a9d9fd13916727fd81f8959",
+      "image_status": "approved",
+      "basis": "CC0-1.0",
+      "evidence_urls": [
+        "https://api.artic.edu/api/v1/artworks/77229",
+        "https://www.artic.edu/artworks/77229",
+        "https://www.artic.edu/terms",
+        "https://api.artic.edu/docs/",
+        "https://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "evidence_files": [
+        {
+          "path": "rights/evidence/P-0078.json",
+          "sha256": "08a32517fd2c0a557528228be22247c8500ea400b33b3f1f1a0b8b17830007ba"
+        },
+        {
+          "path": "rights/evidence/aic-terms-review.json",
+          "sha256": "921b6629c3a049fcc2766ca21042a7258fed43ae0b50994babe356d7706f25e4"
+        }
+      ],
+      "verified_at": "2026-11-11",
+      "reviewer": "Codex primary-source rights and exact-image review",
+      "attribution": "Jean Louis Forain. The Clothing of the Prisoner of War, c. 1915. The Art Institute of Chicago. The Art Institute of Chicago.",
+      "attribution_required": false,
+      "notes": "Release decision covers these exact image bytes under the museum designation. See the shared policy evidence for scope and third-party limits.",
+      "case_sha256": "37357b714349d9aa0d8dbc2d0c97a496dfe01eeaf50655463a029d4d9bb18b07"
+    },
+    {
+      "id": "P-0079",
+      "image_sha256": "8bcdac7d3b69d85381958dc523fa99f45beaa07a374f226e8693b37c01abb079",
+      "image_status": "approved",
+      "basis": "CC0-1.0",
+      "evidence_urls": [
+        "https://api.artic.edu/api/v1/artworks/7945",
+        "https://www.artic.edu/artworks/7945",
+        "https://www.artic.edu/terms",
+        "https://api.artic.edu/docs/",
+        "https://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "evidence_files": [
+        {
+          "path": "rights/evidence/P-0079.json",
+          "sha256": "2efe752acf08a72032dc0381eb3be7ddbe78e2bd2584d4cd9c5a988f93b54c00"
+        },
+        {
+          "path": "rights/evidence/aic-terms-review.json",
+          "sha256": "921b6629c3a049fcc2766ca21042a7258fed43ae0b50994babe356d7706f25e4"
+        }
+      ],
+      "verified_at": "2026-11-11",
+      "reviewer": "Codex primary-source rights and exact-image review",
+      "attribution": "Henry Patrick Raleigh. Hun or Home?, 1918. The Art Institute of Chicago. Gift of Mrs. N. M. Goldsmith.",
+      "attribution_required": false,
+      "notes": "Release decision covers these exact image bytes under the museum designation. See the shared policy evidence for scope and third-party limits.",
+      "case_sha256": "44a12d69b419005ff7c697123ddad170a82919f794333ad2ad62066ce8c9b802"
+    },
+    {
+      "id": "P-0080",
+      "image_sha256": "cd61b2d7b9acdf22fde9ac3e0c01322868456f15c50215b65021c9cb1a56d830",
+      "image_status": "approved",
+      "basis": "CC0-1.0",
+      "evidence_urls": [
+        "https://api.artic.edu/api/v1/artworks/82287",
+        "https://www.artic.edu/artworks/82287",
+        "https://www.artic.edu/terms",
+        "https://api.artic.edu/docs/",
+        "https://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "evidence_files": [
+        {
+          "path": "rights/evidence/P-0080.json",
+          "sha256": "da80c615e358b52f454618a14924e79adc5668120f9ae39e5c72653b923e8d59"
+        },
+        {
+          "path": "rights/evidence/aic-terms-review.json",
+          "sha256": "921b6629c3a049fcc2766ca21042a7258fed43ae0b50994babe356d7706f25e4"
+        }
+      ],
+      "verified_at": "2026-11-11",
+      "reviewer": "Codex primary-source rights and exact-image review",
+      "attribution": "Henri de Toulouse-Lautrec. Moulin Rouge, La Goulue, 1891. The Art Institute of Chicago. Mr. and Mrs. Carter H. Harrison Collection.",
+      "attribution_required": false,
+      "notes": "Release decision covers these exact image bytes under the museum designation. See the shared policy evidence for scope and third-party limits.",
+      "case_sha256": "e66d5e24d8393894d39cfdfccc5a5d6e3db295068a2886cb0efcb1bddd08afdd"
+    },
+    {
+      "id": "P-0081",
+      "image_sha256": "04021f84fdec514d4f6a033480e4ccb2148efe98c918e16aa10234aa7c17fe96",
+      "image_status": "approved",
+      "basis": "CC0-1.0",
+      "evidence_urls": [
+        "https://api.artic.edu/api/v1/artworks/88629",
+        "https://www.artic.edu/artworks/88629",
+        "https://www.artic.edu/terms",
+        "https://api.artic.edu/docs/",
+        "https://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "evidence_files": [
+        {
+          "path": "rights/evidence/P-0081.json",
+          "sha256": "e84687f0daf8159f63a389f0b780fe66df28d9c8b9c8f26d34bacbfc5a1c9eec"
+        },
+        {
+          "path": "rights/evidence/aic-terms-review.json",
+          "sha256": "921b6629c3a049fcc2766ca21042a7258fed43ae0b50994babe356d7706f25e4"
+        }
+      ],
+      "verified_at": "2026-11-11",
+      "reviewer": "Codex primary-source rights and exact-image review",
+      "attribution": "Henri de Toulouse-Lautrec. Reine de Joie, 1892. The Art Institute of Chicago. The Charles Deering Collection.",
+      "attribution_required": false,
+      "notes": "Release decision covers these exact image bytes under the museum designation. See the shared policy evidence for scope and third-party limits.",
+      "case_sha256": "08ec2ca0d025d5e57ed4c7ccfcc1c44b5359d88556f7fdef38003785bc72daba"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "P-0065",
+  "title": "Zodiaque (\"La Plume\")",
+  "creator": "Alphonse Marie Mucha",
+  "year": "1896–97",
+  "taxonomy_version": "0.2",
+  "original_use": "commercial",
+  "original_subjects": [],
+  "source_url": "https://www.artic.edu/artworks/111986",
+  "image_url": "https://www.artic.edu/iiif/2/119dba14-acf2-cdcd-e9e6-b9cd38bc3aad/full/1200,/0/default.jpg",
+  "image_path": "cases/P-0065/preview.jpg",
+  "image_sha256": "418d9f50d3f293abb5b5ce4f064dcd801312e85915f34e6773eeb83f989b3ee7",
+  "retrieved_at": "2026-11-07T20:45:23.084957+00:00",
+  "annotation_status": "reviewed",
+  "annotator": "Codex early visual screen",
+  "annotated_at": "2026-11-08",
+  "art_history": [
+    {
+      "term_id": "art_nouveau",
+      "relation": "visual_affinity",
+      "visual_reason": "环形装饰框、植物般发丝和连续有机曲线将人物与装饰融合。"
+    }
+  ],
+  "observed": {
+    "visual_family": {
+      "primary": "ornamental_pattern",
+      "secondary": null
+    },
+    "visual_driver": "image",
+    "composition": [
+      "frame"
+    ],
+    "text_density": "medium"
+  },
+  "interpreted": {
+    "tone": [
+      "solemn"
+    ],
+    "transferable_concepts": [
+      {
+        "id": "identity",
+        "reason": "人物轮廓和圆形徽章共同建立可识别身份"
+      }
+    ]
+  },
+  "techniques": [
+    "linework",
+    "organic_curves"
+  ],
+  "typography": [
+    "custom_display"
+  ],
+  "color": {
+    "color_mode": "limited_palette",
+    "color_contrast": "strong",
+    "dominant_colors": [
+      "orange",
+      "green",
+      "brown"
+    ]
+  },
+  "analysis": {
+    "visual_mechanism": "环形黄道纹样环抱侧脸，长发下垂连接底部历表。此处描述以所见图像为依据。",
+    "transferable_method": "可迁移的编排策略：环形黄道纹样环抱侧脸，长发下垂连接底部历表；改用于书籍宣传时，以书的核心物象替换主图，沿原有文字区安排书名和一条核心信息。",
+    "failure_modes": "这一结构依赖人物轮廓和圆形徽章共同建立可识别身份；若把书名、作者和多条卖点都放到主图轮廓内部，会削弱该关系。",
+    "annotation_rationale": "Collected and initially annotated separately; root inspected the complete local image, compared the primary-source identity and corrected visible classification conflicts."
+  },
+  "review": {
+    "reviewer": "Codex root independent acceptance after collector and annotator passes",
+    "reviewed_at": "2026-11-08",
+    "image_sha256": "418d9f50d3f293abb5b5ce4f064dcd801312e85915f34e6773eeb83f989b3ee7",
+    "source_check": "Matched title, creator (including explicit unknown), date and record identity to preserved primary record aic-111986; image visually corresponds to the work.",
+    "source_urls": [
+      "https://www.artic.edu/artworks/111986"
+    ],
+    "visual_check": "Selected contact sheet 0. Full image identity, main composition, visual family, text density and source correspondence inspected; minor imprint text not transcribed. ",
+    "source_record_sha256": "1494f6aa5a60c2c9f4a575d9247f7d50c739b0acfec1ecb35078310a8f1599b8"
+  },
+  "rights_note": "CC0-1.0; see CREDITS.md and rights/release-manifest.json. Release decision covers these exact image bytes under the museum designation. See the shared policy evidence for scope and third-party limits.",
+  "source_evidence": "Source record and local image identity were reviewed; see source_url and review.",
+  "notes": "Release starter reference. Rights review is separate from visual/source review."
+}

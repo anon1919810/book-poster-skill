@@ -1,0 +1,75 @@
+{
+  "id": "P-0076",
+  "title": "The Day of the Doughboy",
+  "creator": "Théophile-Alexandre Pierre Steinlen",
+  "year": "1915",
+  "taxonomy_version": "0.2",
+  "original_use": "public_message",
+  "original_subjects": [],
+  "source_url": "https://www.artic.edu/artworks/77088",
+  "image_url": "https://www.artic.edu/iiif/2/273e2e3a-2ce8-d9bb-a642-69b65f5e6aee/full/1200,/0/default.jpg",
+  "image_path": "cases/P-0076/preview.jpg",
+  "image_sha256": "66c18f0d87700a31458a33f0a2ca019e221e938dde1eeea825eb3ab2a6991dbb",
+  "retrieved_at": "2026-11-07T20:45:28.555433+00:00",
+  "annotation_status": "reviewed",
+  "annotator": "Codex early visual screen",
+  "annotated_at": "2026-11-08",
+  "art_history": [],
+  "observed": {
+    "visual_family": {
+      "primary": "illustrative_organic",
+      "secondary": null
+    },
+    "visual_driver": "image",
+    "composition": [
+      "stacked"
+    ],
+    "text_density": "medium"
+  },
+  "interpreted": {
+    "tone": [
+      "solemn"
+    ],
+    "transferable_concepts": [
+      {
+        "id": "connection",
+        "reason": "并肩人物强调共同经历"
+      }
+    ]
+  },
+  "techniques": [
+    "flat_shapes"
+  ],
+  "typography": [
+    "custom_display"
+  ],
+  "color": {
+    "color_mode": "limited_palette",
+    "color_contrast": "strong",
+    "dominant_colors": [
+      "brown",
+      "black",
+      "white"
+    ]
+  },
+  "analysis": {
+    "visual_mechanism": "两名士兵肩并肩占据中央，上下均以横排文字封边。此处描述以所见图像为依据。",
+    "transferable_method": "可迁移的编排策略：两名士兵肩并肩占据中央，上下均以横排文字封边；改用于书籍宣传时，以书的核心物象替换主图，沿原有文字区安排书名和一条核心信息。",
+    "failure_modes": "这一结构依赖并肩人物强调共同经历；若把书名、作者和多条卖点都放到主图轮廓内部，会削弱该关系。",
+    "annotation_rationale": "Collected and initially annotated separately; root inspected the complete local image, compared the primary-source identity and corrected visible classification conflicts."
+  },
+  "review": {
+    "reviewer": "Codex root independent acceptance after collector and annotator passes",
+    "reviewed_at": "2026-11-08",
+    "image_sha256": "66c18f0d87700a31458a33f0a2ca019e221e938dde1eeea825eb3ab2a6991dbb",
+    "source_check": "Matched title, creator (including explicit unknown), date and record identity to preserved primary record aic-77088; image visually corresponds to the work.",
+    "source_urls": [
+      "https://www.artic.edu/artworks/77088"
+    ],
+    "visual_check": "Selected contact sheet 0. Full image identity, main composition, visual family, text density and source correspondence inspected; minor imprint text not transcribed. ",
+    "source_record_sha256": "caf6c207c5d63f79736345f51e1c335c6c002a03aa5b4c045ccbb866fc456635"
+  },
+  "rights_note": "CC0-1.0; see CREDITS.md and rights/release-manifest.json. Release decision covers these exact image bytes under the museum designation. See the shared policy evidence for scope and third-party limits.",
+  "source_evidence": "Source record and local image identity were reviewed; see source_url and review.",
+  "notes": "Release starter reference. Rights review is separate from visual/source review."
+}

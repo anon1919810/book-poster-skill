@@ -1,0 +1,75 @@
+{
+  "id": "P-0077",
+  "title": "Red Cross Our Day 1917",
+  "creator": "John Singer Sargent",
+  "year": "1917",
+  "taxonomy_version": "0.2",
+  "original_use": "public_message",
+  "original_subjects": [],
+  "source_url": "https://www.artic.edu/artworks/77145",
+  "image_url": "https://www.artic.edu/iiif/2/e7eb4b2b-07af-4f99-0418-786d4a5201f0/full/1200,/0/default.jpg",
+  "image_path": "cases/P-0077/preview.jpg",
+  "image_sha256": "e020a5a0cc150f92f4e77981ff77ac6bc370416744ba2b7e2cebafccaf0e4bfb",
+  "retrieved_at": "2026-11-07T20:45:27.237820+00:00",
+  "annotation_status": "reviewed",
+  "annotator": "Codex early visual screen",
+  "annotated_at": "2026-11-08",
+  "art_history": [],
+  "observed": {
+    "visual_family": {
+      "primary": "illustrative_organic",
+      "secondary": null
+    },
+    "visual_driver": "image",
+    "composition": [
+      "centered"
+    ],
+    "text_density": "medium"
+  },
+  "interpreted": {
+    "tone": [
+      "solemn"
+    ],
+    "transferable_concepts": [
+      {
+        "id": "connection",
+        "reason": "相拥人物被公共救护符号统一"
+      }
+    ]
+  },
+  "techniques": [
+    "flat_shapes"
+  ],
+  "typography": [
+    "custom_display"
+  ],
+  "color": {
+    "color_mode": "limited_palette",
+    "color_contrast": "strong",
+    "dominant_colors": [
+      "red",
+      "black",
+      "green"
+    ]
+  },
+  "analysis": {
+    "visual_mechanism": "巨大红十字托住细线双人像，年份单列于下方。此处描述以所见图像为依据。",
+    "transferable_method": "可迁移的编排策略：巨大红十字托住细线双人像，年份单列于下方；改用于书籍宣传时，以书的核心物象替换主图，沿原有文字区安排书名和一条核心信息。",
+    "failure_modes": "这一结构依赖相拥人物被公共救护符号统一；若把书名、作者和多条卖点都放到主图轮廓内部，会削弱该关系。",
+    "annotation_rationale": "Collected and initially annotated separately; root inspected the complete local image, compared the primary-source identity and corrected visible classification conflicts."
+  },
+  "review": {
+    "reviewer": "Codex root independent acceptance after collector and annotator passes",
+    "reviewed_at": "2026-11-08",
+    "image_sha256": "e020a5a0cc150f92f4e77981ff77ac6bc370416744ba2b7e2cebafccaf0e4bfb",
+    "source_check": "Matched title, creator (including explicit unknown), date and record identity to preserved primary record aic-77145; image visually corresponds to the work.",
+    "source_urls": [
+      "https://www.artic.edu/artworks/77145"
+    ],
+    "visual_check": "Selected contact sheet 1. Full image identity, main composition, visual family, text density and source correspondence inspected; minor imprint text not transcribed. ",
+    "source_record_sha256": "66eac3167bb6b16ea51cdef19372b9e1c5e57ee8fb8a0c7a56ce98d97e47c029"
+  },
+  "rights_note": "CC0-1.0; see CREDITS.md and rights/release-manifest.json. Release decision covers these exact image bytes under the museum designation. See the shared policy evidence for scope and third-party limits.",
+  "source_evidence": "Source record and local image identity were reviewed; see source_url and review.",
+  "notes": "Release starter reference. Rights review is separate from visual/source review."
+}

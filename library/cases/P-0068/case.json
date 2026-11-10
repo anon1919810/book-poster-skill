@@ -1,0 +1,76 @@
+{
+  "id": "P-0068",
+  "title": "La revue blanche",
+  "creator": "Henri de Toulouse-Lautrec",
+  "year": "1895",
+  "taxonomy_version": "0.2",
+  "original_use": "commercial",
+  "original_subjects": [],
+  "source_url": "https://www.artic.edu/artworks/13606",
+  "image_url": "https://www.artic.edu/iiif/2/46cb742b-aeea-56bd-d319-fc0cca59f676/full/1200,/0/default.jpg",
+  "image_path": "cases/P-0068/preview.jpg",
+  "image_sha256": "4c4efacc3e1c6de98d11f2e8c3bbdf4d2cac65152c996c0391899ade86f12326",
+  "retrieved_at": "2026-11-07T20:45:24.553821+00:00",
+  "annotation_status": "reviewed",
+  "annotator": "Codex early visual screen",
+  "annotated_at": "2026-11-08",
+  "art_history": [],
+  "observed": {
+    "visual_family": {
+      "primary": "illustrative_organic",
+      "secondary": null
+    },
+    "visual_driver": "image",
+    "composition": [
+      "asymmetric"
+    ],
+    "text_density": "low"
+  },
+  "interpreted": {
+    "tone": [
+      "intimate"
+    ],
+    "transferable_concepts": [
+      {
+        "id": "identity",
+        "reason": "服装轮廓成为人物识别线索"
+      }
+    ]
+  },
+  "techniques": [
+    "linework",
+    "organic_curves"
+  ],
+  "typography": [
+    "custom_display"
+  ],
+  "color": {
+    "color_mode": "limited_palette",
+    "color_contrast": "strong",
+    "dominant_colors": [
+      "black",
+      "green",
+      "red"
+    ]
+  },
+  "analysis": {
+    "visual_mechanism": "帽羽抵近上缘，向右偏的人物让左侧保留低密度空隙。此处描述以所见图像为依据。",
+    "transferable_method": "可迁移的编排策略：帽羽抵近上缘，向右偏的人物让左侧保留低密度空隙；改用于书籍宣传时，以书的核心物象替换主图，沿原有文字区安排书名和一条核心信息。",
+    "failure_modes": "这一结构依赖服装轮廓成为人物识别线索；若把书名、作者和多条卖点都放到主图轮廓内部，会削弱该关系。",
+    "annotation_rationale": "Collected and initially annotated separately; root inspected the complete local image, compared the primary-source identity and corrected visible classification conflicts."
+  },
+  "review": {
+    "reviewer": "Codex root independent acceptance after collector and annotator passes",
+    "reviewed_at": "2026-11-08",
+    "image_sha256": "4c4efacc3e1c6de98d11f2e8c3bbdf4d2cac65152c996c0391899ade86f12326",
+    "source_check": "Matched title, creator (including explicit unknown), date and record identity to preserved primary record aic-13606; image visually corresponds to the work.",
+    "source_urls": [
+      "https://www.artic.edu/artworks/13606"
+    ],
+    "visual_check": "Selected contact sheet 0. Full image identity, main composition, visual family, text density and source correspondence inspected; minor imprint text not transcribed. ",
+    "source_record_sha256": "0a12011af08ebe29f6df2acc4ac9ad2f8ad68d92f770a07073bab30207727bce"
+  },
+  "rights_note": "CC0-1.0; see CREDITS.md and rights/release-manifest.json. Release decision covers these exact image bytes under the museum designation. See the shared policy evidence for scope and third-party limits.",
+  "source_evidence": "Source record and local image identity were reviewed; see source_url and review.",
+  "notes": "Release starter reference. Rights review is separate from visual/source review."
+}

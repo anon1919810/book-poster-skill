@@ -1,0 +1,82 @@
+{
+  "id": "P-0071",
+  "title": "Time Cooperative",
+  "creator": "Adolf Hohenstein",
+  "year": "1899",
+  "taxonomy_version": "0.2",
+  "original_use": "performance",
+  "original_subjects": [],
+  "source_url": "https://www.artic.edu/artworks/17079",
+  "image_url": "https://www.artic.edu/iiif/2/6127bf0f-24ca-fb9a-8be9-84fd3d8dc7de/full/1200,/0/default.jpg",
+  "image_path": "cases/P-0071/preview.jpg",
+  "image_sha256": "21ebd5663b4408f8bcd8efc9d8248ef89325887bdcb868efce54fb9bda010c05",
+  "retrieved_at": "2026-11-07T20:45:31.035048+00:00",
+  "annotation_status": "reviewed",
+  "annotator": "Codex early visual screen",
+  "annotated_at": "2026-11-08",
+  "art_history": [
+    {
+      "term_id": "art_nouveau",
+      "relation": "visual_affinity",
+      "visual_reason": "伸展身体、盘绕曲线与圆胖装饰字形在平面中互相缠绕。"
+    }
+  ],
+  "observed": {
+    "visual_family": {
+      "primary": "illustrative_organic",
+      "secondary": null
+    },
+    "visual_driver": "image",
+    "composition": [
+      "stacked"
+    ],
+    "text_density": "medium"
+  },
+  "interpreted": {
+    "tone": [
+      "dramatic"
+    ],
+    "transferable_concepts": [
+      {
+        "id": "time",
+        "reason": "钟面将抽象时间变成主要视觉物"
+      }
+    ]
+  },
+  "techniques": [
+    "linework",
+    "organic_curves"
+  ],
+  "typography": [
+    "custom_display"
+  ],
+  "color": {
+    "color_mode": "limited_palette",
+    "color_contrast": "strong",
+    "dominant_colors": [
+      "orange",
+      "yellow",
+      "black"
+    ]
+  },
+  "analysis": {
+    "visual_mechanism": "时钟占上角，伸出的手臂穿过画面，圆胖标题稳住底部。此处描述以所见图像为依据。",
+    "transferable_method": "可迁移的编排策略：时钟占上角，伸出的手臂穿过画面，圆胖标题稳住底部；改用于书籍宣传时，以书的核心物象替换主图，沿原有文字区安排书名和一条核心信息。",
+    "failure_modes": "这一结构依赖钟面将抽象时间变成主要视觉物；若把书名、作者和多条卖点都放到主图轮廓内部，会削弱该关系。",
+    "annotation_rationale": "Collected and initially annotated separately; root inspected the complete local image, compared the primary-source identity and corrected visible classification conflicts."
+  },
+  "review": {
+    "reviewer": "Codex root independent acceptance after collector and annotator passes",
+    "reviewed_at": "2026-11-08",
+    "image_sha256": "21ebd5663b4408f8bcd8efc9d8248ef89325887bdcb868efce54fb9bda010c05",
+    "source_check": "Matched title, creator (including explicit unknown), date and record identity to preserved primary record aic-17079; image visually corresponds to the work.",
+    "source_urls": [
+      "https://www.artic.edu/artworks/17079"
+    ],
+    "visual_check": "Selected contact sheet 0. Full image identity, main composition, visual family, text density and source correspondence inspected; minor imprint text not transcribed. ",
+    "source_record_sha256": "90b77b585439d678c0a188b9023e8a9a78786226b9d4a80d7b3b985a6304c8d5"
+  },
+  "rights_note": "CC0-1.0; see CREDITS.md and rights/release-manifest.json. Release decision covers these exact image bytes under the museum designation. See the shared policy evidence for scope and third-party limits.",
+  "source_evidence": "Source record and local image identity were reviewed; see source_url and review.",
+  "notes": "Release starter reference. Rights review is separate from visual/source review."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "P-0073",
+  "api_url": "https://api.artic.edu/api/v1/artworks/31114",
+  "checked_at": "2026-11-10T18:36:58.146426+00:00",
+  "is_public_domain": true,
+  "image_id": "bf4eda97-f0a0-6450-7e56-01fa57f424da",
+  "image_id_matches": true,
+  "image_sha256": "17a5c468cc0775ec46f717b6c9192e405d94d192392feaec7dd7462b92e2423d",
+  "remote_image_sha256": "17a5c468cc0775ec46f717b6c9192e405d94d192392feaec7dd7462b92e2423d",
+  "identical_bytes": true,
+  "title": "Subscribe in Order to Hasten Peace through Victory.",
+  "credit_line": "Gift of Walter S. Brewster",
+  "copyright_notice": null,
+  "api_sha256": "4eb1cdcb30124697607013c7a31b1505326a299cc587bad6fc7e19f372364df8",
+  "source_url": "https://www.artic.edu/artworks/31114",
+  "image_url": "https://www.artic.edu/iiif/2/bf4eda97-f0a0-6450-7e56-01fa57f424da/full/1200,/0/default.jpg"
+}
